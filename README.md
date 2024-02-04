@@ -13,6 +13,6 @@
 </ul>
 <p>Soru &ccedil;&ouml;z&uuml;m esnasında peş peşe &uuml;&ccedil; yanlış yapmanız durumunda doğru cevabı g&ouml;rebilirsiniz. Cevaplarda elbette SQL'de olduğu gibi b&uuml;y&uuml;k k&uuml;&ccedil;&uuml;k harf ve boşluk ayrımı yok.&nbsp;</p>
 <p>Bu ilk s&uuml;r&uuml;mde soru sayısı kısıtlı tutulmuş olsa da ilerleyen d&ouml;nemde &ccedil;ıkacak g&uuml;ncellemede soru sayısı artırılmakla beraber; şema se&ccedil;imi, zorluk se&ccedil;imi, level sistemi, challenge modu ve yeni aray&uuml;z gibi değişikler yapılacak.&nbsp;</p>
-<p><a href="https://drive.google.com/file/d/1fegObhslORriH4bEhSSofRBCg-d23TEM/view?usp=sharing" target="_blank"><strong>SQL'liyoruz V1 Setup (Kurulum dosyası) İndir&nbsp;</strong></a></p>
+<p><a href="https://drive.google.com/file/d/12rCo30d9fVWkgMZVsXt9B4xVne0qQ4rK/view?usp=sharing" rel="external">SQL'liyoruz V1 Setup (Kurulum) Dosyası İndir</a></p>
 <p>Next next next. :)&nbsp;</p>
 <h2>&nbsp;</h2>
